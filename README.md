@@ -1,6 +1,7 @@
 # AI_Virtual_Assistance
 
 This project is an AI-powered virtual assistant built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It integrates speech recognition, natural language processing, and text-to-speech capabilities to create an interactive, voice-controlled experience.
+![](https://github.com/Manishkannoujiya/AI_Virtual_Assistance/blob/main/Screenshot%202025-08-22%20224133.png)
 
 ## Key Features
 
